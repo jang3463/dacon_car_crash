@@ -25,7 +25,7 @@ https://dacon.io/competitions/official/236064/overview/description
   - sample_id : 영상 샘플 고유 id
   - video_path : 학습용 차량 블랙박스 영상 경로
 
-<img width="302" alt="image" src="https://github.com/jang3463/dacon_car_crash/assets/70848146/13c17d46-a5c2-48da-b07b-dab3a9b2cc1d">
+<img width="700" height="800" alt="image" src="https://github.com/jang3463/dacon_car_crash/assets/70848146/13c17d46-a5c2-48da-b07b-dab3a9b2cc1d">
 
 ## 3. 수행방법
 <!-- Write Overview about this project -->
