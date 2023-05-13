@@ -16,14 +16,16 @@ https://dacon.io/competitions/official/236064/overview/description
 - test(폴더) : 평가용 차량 블랙박스 영상, TEST_0000.mp4 ~ TEST_1799.mp4
 
 
-- train.csv : 2697개
+- train.csv
   - sample_id : 영상 샘플 고유 id
   - video_path : 학습용 차량 블랙박스 영상 경로
   - label : 13가지의 차량 충돌 상황
 
-- test.csv : 1799개
+- test.csv
   - sample_id : 영상 샘플 고유 id
   - video_path : 학습용 차량 블랙박스 영상 경로
+
+<img width="302" alt="image" src="https://github.com/jang3463/dacon_car_crash/assets/70848146/13c17d46-a5c2-48da-b07b-dab3a9b2cc1d">
 
 ## 3. 수행방법
 <!-- Write Overview about this project -->
