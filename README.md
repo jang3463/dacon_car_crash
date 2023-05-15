@@ -11,6 +11,7 @@ https://dacon.io/competitions/official/236064/overview/description
 -->
 ## 2. 데이터셋 설명
 <!--Wirte one paragraph of project description --> 
+![TRAIN_0001](https://github.com/jang3463/dacon_car_crash/assets/70848146/6d42946b-739b-43f8-8d71-eaa4883c8a0f)
 - train(폴더) :  학습용 차량 블랙박스 영상, TRAIN_0000.mp4 ~ TRAIN_2697.mp4
 
 - test(폴더) : 평가용 차량 블랙박스 영상, TEST_0000.mp4 ~ TEST_1799.mp4
